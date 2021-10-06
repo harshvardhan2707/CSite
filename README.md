@@ -1,2 +1,2 @@
 # CSite
- A website to pop/push() out the pro in your programming.
+The home page is home.html and the login page is login.html
