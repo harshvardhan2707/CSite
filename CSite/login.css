@@ -16,7 +16,7 @@ nav ul li button
 
 #login-form
 {
-    display: none;
+    display: block;
 }
 .form-box
 {
